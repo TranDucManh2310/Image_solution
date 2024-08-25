@@ -1,3 +1,4 @@
+
 import cv2
 import numpy as np
 
@@ -26,4 +27,3 @@ else:
 
     # Chờ đợi phím bất kỳ để đóng cửa sổ
     cv2.waitKey(0)
-    cv2.destroyAllWindows()
